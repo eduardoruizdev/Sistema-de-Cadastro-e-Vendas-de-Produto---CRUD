@@ -1,0 +1,244 @@
+﻿/* StyleCategoria.css - Sincronizado com StyleEstoque.css */
+
+:root {
+    --primary: #4f46e5;
+    --sidebar-bg: #1e293b;
+    --bg-body: #f8fafc;
+    --danger: #ef4444;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background: var(--bg-body);
+    display: flex;
+    min-height: 100vh;
+}
+
+/* SIDEBAR - IDÊNTICA AO ESTOQUE */
+.sidebar {
+    width: 260px;
+    background: var(--sidebar-bg);
+    color: white;
+    position: fixed;
+    height: 100vh;
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Garante o botão Sair no final */
+}
+
+    .sidebar h2 {
+        color: var(--primary);
+        font-weight: 800;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+.menu-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px;
+    color: #94a3b8;
+    text-decoration: none;
+    border-radius: 12px;
+    transition: 0.3s;
+    margin-bottom: 5px;
+}
+
+    .menu-item:hover, .menu-item.active {
+        background: #334155;
+        color: white;
+    }
+
+/* BOTÃO SAIR - PADRÃO ESTOQUE */
+.logout {
+    color: #f87171 !important;
+    border: 1px solid rgba(248,113,113,0.2);
+    margin-top: auto; /* Empurra para o final da sidebar */
+}
+
+    .logout:hover {
+        background: rgba(248, 113, 113, 0.1) !important;
+    }
+
+/* ÁREA PRINCIPAL */
+.main-content {
+    margin-left: 260px;
+    flex: 1;
+    padding: 50px;
+}
+
+/* CABEÇALHO E BUSCA */
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.btn-new {
+    background: var(--primary);
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.search-container {
+    background: white;
+    padding: 15px 25px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+}
+
+    .search-container input {
+        border: none;
+        outline: none;
+        width: 100%;
+        font-size: 1rem;
+        color: #64748b;
+    }
+
+/* TABELA DE CATEGORIAS */
+.container-categorias {
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 10px 15px -3px rgba(0,0,0,0.05);
+    overflow: hidden;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background: #f8fafc;
+    padding: 20px 25px;
+    text-align: left;
+    font-size: 0.8rem;
+    color: #64748b;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 1px solid #f1f5f9;
+}
+
+td {
+    padding: 20px 25px;
+    border-bottom: 1px solid #f1f5f9;
+    color: #1e293b;
+}
+
+.id-tag {
+    color: var(--primary);
+    font-weight: 700;
+    background: #eef2ff;
+    padding: 5px 10px;
+    border-radius: 8px;
+    font-size: 0.85rem;
+}
+
+.btn-delete-action {
+    color: var(--danger);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 5px;
+    font-weight: 700;
+    transition: 0.3s;
+}
+
+    .btn-delete-action:hover {
+        opacity: 0.7;
+    }
+
+/* MODAL - PADRÃO ESTOQUE */
+.modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.6);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    backdrop-filter: blur(4px);
+}
+
+.modal-content {
+    background: white;
+    padding: 40px;
+    border-radius: 24px;
+    width: 450px;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+    .form-group label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: 600;
+        color: #475569;
+        font-size: 0.9rem;
+    }
+
+    .form-group input {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #e2e8f0;
+        border-radius: 10px;
+        outline: none;
+    }
+
+.modal-footer {
+    display: flex;
+    gap: 15px;
+    margin-top: 30px;
+}
+
+.btn-cancel {
+    flex: 1;
+    padding: 14px;
+    border-radius: 12px;
+    border: none;
+    background: #f1f5f9;
+    cursor: pointer;
+    font-weight: 700;
+    color: #64748b;
+}
+
+.btn-save-ui {
+    flex: 1;
+    padding: 14px;
+    border-radius: 12px;
+    border: none;
+    background: var(--primary);
+    color: white;
+    cursor: pointer;
+    font-weight: 700;
+}

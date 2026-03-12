@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CODIGOLOJAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\classes\\controller\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\classes\\controller\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|c:\\codigolojas\\codigolojas\\classes\\controller\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\classes\\controller\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\classes\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\classes\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\classes\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\classes\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\pages\\gerenciadoestoq.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\pages\\gerenciadoestoq.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\pages\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\pages\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\pages\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\pages\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\pages\\gerenciadoestoq.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\pages\\gerenciadoestoq.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\style\\stylecategoria.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\style\\stylecategoria.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\pages\\categorias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\pages\\categorias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\style\\styleestoque.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\style\\styleestoque.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\pages\\gerenciadoestoq.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\pages\\gerenciadoestoq.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\pages\\index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\pages\\index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\style\\styleindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\style\\styleindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\pages\\categorias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\pages\\categorias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\pages\\categorias.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\pages\\categorias.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|C:\\CODIGOLOJAS\\codigolojas\\style\\stylelogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F172539-1DC9-4B5E-B125-8821ADB626E7}|CODIGOLOJAS\\CODIGOLOJAS.csproj|solutionrelative:codigolojas\\style\\stylelogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Classes\\models\\Categoria.cs",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Classes\\models\\Categoria.cs",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Classes\\models\\Categoria.cs",
+              "RelativeToolTip": "CODIGOLOJAS\\Classes\\models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:29:52.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StyleCategoria.css",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Style\\StyleCategoria.css",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Style\\StyleCategoria.css",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Style\\StyleCategoria.css",
+              "RelativeToolTip": "CODIGOLOJAS\\Style\\StyleCategoria.css",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAQwPQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-08T02:44:27.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Classes\\models\\Produto.cs",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Classes\\models\\Produto.cs",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Classes\\models\\Produto.cs",
+              "RelativeToolTip": "CODIGOLOJAS\\Classes\\models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T02:49:03.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Classes\\Controller\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Classes\\Controller\\ProdutosController.cs",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Classes\\Controller\\ProdutosController.cs",
+              "RelativeToolTip": "CODIGOLOJAS\\Classes\\Controller\\ProdutosController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T02:52:02.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\index.aspx",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Pages\\index.aspx",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\index.aspx",
+              "RelativeToolTip": "CODIGOLOJAS\\Pages\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-12T13:46:24.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gerenciadoestoq.aspx.cs",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\Gerenciadoestoq.aspx.cs",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Pages\\Gerenciadoestoq.aspx.cs",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\Gerenciadoestoq.aspx.cs",
+              "RelativeToolTip": "CODIGOLOJAS\\Pages\\Gerenciadoestoq.aspx.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T17:28:09.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\index.aspx.cs",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Pages\\index.aspx.cs",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\index.aspx.cs",
+              "RelativeToolTip": "CODIGOLOJAS\\Pages\\index.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:50:19.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Classes\\Controller\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Classes\\Controller\\CategoriasController.cs",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Classes\\Controller\\CategoriasController.cs",
+              "RelativeToolTip": "CODIGOLOJAS\\Classes\\Controller\\CategoriasController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:34:48.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "categorias.aspx",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\categorias.aspx",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Pages\\categorias.aspx",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\categorias.aspx",
+              "RelativeToolTip": "CODIGOLOJAS\\Pages\\categorias.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-08T02:44:17.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StyleEstoque.css",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Style\\StyleEstoque.css",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Style\\StyleEstoque.css",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Style\\StyleEstoque.css",
+              "RelativeToolTip": "CODIGOLOJAS\\Style\\StyleEstoque.css",
+              "ViewState": "AgIAANEAAAAAAAAAAAAQwPoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-08T02:21:54.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gerenciadoestoq.aspx",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\Gerenciadoestoq.aspx",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Pages\\Gerenciadoestoq.aspx",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\Gerenciadoestoq.aspx",
+              "RelativeToolTip": "CODIGOLOJAS\\Pages\\Gerenciadoestoq.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-08T02:29:23.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gerenciadoestoq.aspx.designer.cs",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\Gerenciadoestoq.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Pages\\Gerenciadoestoq.aspx.designer.cs",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\Gerenciadoestoq.aspx.designer.cs",
+              "RelativeToolTip": "CODIGOLOJAS\\Pages\\Gerenciadoestoq.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T14:38:14.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "categorias.aspx.designer.cs",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\categorias.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Pages\\categorias.aspx.designer.cs",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\categorias.aspx.designer.cs",
+              "RelativeToolTip": "CODIGOLOJAS\\Pages\\categorias.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T14:26:57.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.aspx.designer.cs",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\index.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Pages\\index.aspx.designer.cs",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\index.aspx.designer.cs",
+              "RelativeToolTip": "CODIGOLOJAS\\Pages\\index.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T07:37:47.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "styleIndex.css",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Style\\styleIndex.css",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Style\\styleIndex.css",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Style\\styleIndex.css",
+              "RelativeToolTip": "CODIGOLOJAS\\Style\\styleIndex.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-12T13:46:39.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Pages\\Login.aspx.cs",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\Login.aspx.cs",
+              "RelativeToolTip": "CODIGOLOJAS\\Pages\\Login.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T02:01:02.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "categorias.aspx.cs",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\categorias.aspx.cs",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Pages\\categorias.aspx.cs",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\categorias.aspx.cs",
+              "RelativeToolTip": "CODIGOLOJAS\\Pages\\categorias.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:34:31.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\Login.aspx",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Pages\\Login.aspx",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Pages\\Login.aspx",
+              "RelativeToolTip": "CODIGOLOJAS\\Pages\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-08T01:58:53.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Classes\\DataBase.cs",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Classes\\DataBase.cs",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Classes\\DataBase.cs",
+              "RelativeToolTip": "CODIGOLOJAS\\Classes\\DataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T02:07:37.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "styleLogin.css",
+              "DocumentMoniker": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Style\\styleLogin.css",
+              "RelativeDocumentMoniker": "CODIGOLOJAS\\Style\\styleLogin.css",
+              "ToolTip": "C:\\CODIGOLOJAS\\CODIGOLOJAS\\Style\\styleLogin.css",
+              "RelativeToolTip": "CODIGOLOJAS\\Style\\styleLogin.css",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv1oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-08T01:59:01.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

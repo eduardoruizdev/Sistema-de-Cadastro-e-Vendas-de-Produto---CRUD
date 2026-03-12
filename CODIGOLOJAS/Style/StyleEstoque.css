@@ -1,0 +1,250 @@
+﻿:root {
+    --primary: #4f46e5;
+    --sidebar: #0f172a;
+    --bg: #f8fafc;
+    --danger: #ef4444;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background: var(--bg);
+    display: flex;
+    min-height: 100vh;
+}
+
+/* SIDEBAR */
+.sidebar {
+    width: 260px;
+    background: var(--sidebar);
+    color: white;
+    position: fixed;
+    height: 100vh;
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.brand {
+    color: var(--primary);
+    font-weight: 800;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.menu-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px;
+    color: #94a3b8;
+    text-decoration: none;
+    border-radius: 12px;
+    transition: 0.3s;
+}
+
+    .menu-item:hover, .menu-item.active {
+        background: #334155;
+        color: white;
+    }
+
+.logout {
+    color: #f87171 !important;
+    border: 1px solid rgba(248,113,113,0.1);
+}
+
+/* MAIN CONTENT */
+.main-content {
+    margin-left: 260px;
+    flex: 1;
+    padding: 50px;
+}
+
+.header-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.btn-add {
+    background: var(--primary);
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* GRID DE 3 COLUNAS OBRIGATÓRIO */
+.lista-produtos {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important; /* TRAVA 3 POR LINHA */
+    gap: 30px;
+    width: 100%;
+}
+
+.produto-card {
+    background: white;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 10px 15px -3px rgba(0,0,0,0.05);
+    display: flex;
+    flex-direction: column;
+}
+
+.img-container {
+    height: 180px;
+    position: relative;
+    background: #f1f5f9;
+}
+
+    .img-container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+.categoria-badge {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background: var(--primary);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 50px;
+    font-size: 0.7rem;
+    font-weight: 800;
+}
+
+.card-body {
+    padding: 20px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.id-ref {
+    color: var(--primary);
+    font-weight: 700;
+    font-size: 0.8rem;
+    margin-bottom: 5px;
+}
+
+.preco-tag {
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin-top: auto;
+    color: #0f172a;
+    margin-bottom: 15px;
+}
+
+.acoes-produto {
+    display: flex;
+    gap: 10px;
+}
+
+.btn-action {
+    flex: 1;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.edit {
+    background: #6366f1;
+}
+
+.delete {
+    background: var(--danger);
+}
+
+/* SEARCH BAR */
+.search-bar {
+    background: white;
+    padding: 12px 20px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 30px;
+    border: 1px solid #e2e8f0;
+}
+
+    .search-bar input {
+        border: none;
+        outline: none;
+        width: 100%;
+        font-size: 1rem;
+        color: #475569;
+    }
+
+/* MODAL */
+.modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    backdrop-filter: blur(4px);
+}
+
+.modal-content {
+    background: white;
+    padding: 35px;
+    border-radius: 20px;
+    width: 480px;
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
+.form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+.form-group {
+    margin-bottom: 18px;
+}
+
+    .form-group label {
+        display: block;
+        margin-bottom: 6px;
+        font-weight: 600;
+        font-size: 0.9rem;
+    }
+
+    .form-group input, .form-group select, .form-group textarea {
+        width: 100%;
+        padding: 11px;
+        border: 1px solid #e2e8f0;
+        border-radius: 10px;
+    }
+
+.btn-save {
+    background: var(--primary);
+    color: white;
+    border: none;
+    padding: 14px;
+    border-radius: 10px;
+    font-weight: 700;
+    width: 100%;
+    cursor: pointer;
+}
